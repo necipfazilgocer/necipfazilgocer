@@ -1,5 +1,6 @@
-### Hi there 👋my name is Necip Fazıl
-I am IOS and Backend Developer
+### Hi there 👋 my name is Necip Fazıl
+I am IOS and Backend Developer 
+
 Skills: Swift | UIKit | Java | Hibernate | Maven | Spring Boot |  RESTful |
 
 - 🔭 I’m currently working on Swift
