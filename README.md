@@ -7,6 +7,9 @@ Skills: Swift | SwiftUI | Firebase| Viper Pattern    &&     Java | Spring | Spri
 - 🌱 I’m currently learning ...Swift
 - 📫 How to reach me: ...necipfazilgocer@gmail.com
 
+
+c cplusplus css3 firebase git java mysql oracle photoshop postman spring swift
+
 <!--
 **necipfazilgocer/necipfazilgocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
