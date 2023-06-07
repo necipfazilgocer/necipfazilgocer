@@ -5,7 +5,7 @@ I am IOS and Backend Developer
 
 Swift | SwiftUI 
 
-Java | Spring | Spring Boot |  
+Java | Spring | Spring Boot 
 
 Viper Pattern | MVC Pattern 
 
