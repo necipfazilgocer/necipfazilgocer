@@ -15,6 +15,6 @@ I am IOS and Backend Developer
 
 
 
-- 📫 How to reach me: ...necipfazilgocer@gmail.com
+📫 How to reach me: ...necipfazilgocer@gmail.com
 
 
