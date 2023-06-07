@@ -3,15 +3,15 @@ I am IOS and Backend Developer
 
 ******Skills******
 
-Swift | SwiftUI 
+- Swift | SwiftUI 
 
-Java | Spring | Spring Boot 
+- Java | Spring | Spring Boot 
 
-Viper Pattern | MVC Pattern 
+- Viper Pattern | MVC Pattern 
 
-Firebase | MySql | PostgreSql
+- Firebase | MySql | PostgreSql
 
-RestFul 
+- RestFul 
 
 
 
