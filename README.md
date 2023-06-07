@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Necip Fazıl.
 I am IOS and Backend Developer 
 
-****Skills****
+******Skills******
 
 Swift | SwiftUI 
 
