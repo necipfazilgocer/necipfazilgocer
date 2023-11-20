@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Necip Fazıl.
-I am IOS and Backend Developer 
+I am IOS Developer 
 
 ******Skills******
 
@@ -16,5 +16,7 @@ I am IOS and Backend Developer
 
 
 📫 How to reach me: ...necipfazilgocer@gmail.com
+https://www.linkedin.com/in/necipfazilgocer/
+
 
 
