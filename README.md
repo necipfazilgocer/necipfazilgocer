@@ -15,7 +15,9 @@ Hello! I'm Necip Fazıl, an electrical-electronics engineer with 2 years of expe
 
 
 📫 How to reach me: ...necipfazilgocer@gmail.com
+
 https://www.linkedin.com/in/necipfazilgocer/
+
 https://necipfazilgocer.com/
 
 
