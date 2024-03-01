@@ -7,9 +7,7 @@ Hello! I'm Necip Fazıl, an electrical-electronics engineer with 2 years of expe
 
 - Viper Pattern | MVC Pattern 
 
-- Firebase | MySql | PostgreSql
-  
-- Java | Spring | Spring Boot
+- Firebase 
     
 - RestFul
 
